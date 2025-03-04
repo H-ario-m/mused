@@ -1,4 +1,4 @@
-```md
+
 # Emotion Detection Model  
 
 This project is an AI-based **emotion detection system** that classifies emotions from text input using deep learning.  
@@ -63,15 +63,4 @@ Bot: "Joy is such a beautiful feeling! 😄"
 - Support for **multilingual emotion detection**.  
 - Addition of **more diverse emotion responses**.  
 - **Integration with chatbot systems** for enhanced conversations.  
-
-## 🤝 Contribution  
-Contributions are welcome! Feel free to submit issues and pull requests.  
-
-## 📜 License  
-This project is open-source and available under the **MIT License**.  
-```
-
----
-
-### **Next Steps**
-Let me know if you'd like any modifications, such as adding more details or formatting changes! 🚀
+  
